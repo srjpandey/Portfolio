@@ -18,6 +18,8 @@ import Prisma from "../assets/Prisma.png";
 import Sql from "../assets/SQL.png";
 import Graphql from "../assets/GraphQL.png";
 import Git from "../assets/git.png";
+import Express from "../assets/EXPRESS.png";
+
 const Skill = () => {
   const Skills = [
     {
@@ -30,67 +32,67 @@ const Skill = () => {
     },
     {
       id: 3,
-      image: JS,
-    },
-    {
-      id: 4,
-      image: ReactImg,
-    },
-    {
-      id: 5,
-      image: Node,
-    },
-    {
-      id: 6,
-      image: Github,
-    },
-    {
-      id: 7,
-      image: NEXT,
-    },
-    {
-      id: 8,
       image: Tailwind,
     },
     {
-      id: 9,
-      image: Mongo,
+      id: 4,
+      image: JS,
     },
     {
-      id: 10,
-      image: zod,
-    },
-    {
-      id: 11,
-      image: Apollo,
-    },
-    {
-      id: 12,
-      image: Firebase,
-    },
-    {
-      id: 13,
+      id: 5,
       image: Typescript,
     },
     {
-      id: 14,
+      id: 6,
+      image: Git,
+    },
+    {
+      id: 7,
+      image: Github,
+    },
+    {
+      id: 8,
+      image: ReactImg,
+    },
+    {
+      id: 9,
       image: Zod,
     },
     {
-      id: 15,
-      image: Prisma,
+      id: 10,
+      image: NEXT,
     },
     {
-      id: 16,
+      id: 11,
+      image: Node,
+    },
+    {
+      id: 12,
+      image: Express,
+    },
+    {
+      id: 13,
       image: Sql,
     },
     {
-      id: 17,
+      id: 14,
+      image: Prisma,
+    },
+    {
+      id: 15,
+      image: Mongo,
+    },
+    {
+      id: 16,
       image: Graphql,
     },
     {
+      id: 17,
+      image: Apollo,
+    },
+    {
       id: 18,
-      image: Git,
+      image: Firebase,
     },
   ];
   return (
