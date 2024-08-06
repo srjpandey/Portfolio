@@ -13,7 +13,7 @@ const About = () => {
           <lord-icon
             src="https://cdn.lordicon.com/rnvjhobj.json"
             trigger="loop"
-            colors="primary:#CDC9E2,secondary:#ffc738,tertiary:#ebe6ef,quaternary:#4bb3fd,quinary:#3a3347"
+            colors="primary:#F6009C,secondary:#FFD600,tertiary:#ebe6ef,quaternary:#000000,quinary:#000000"
             class="lord-icon"
             data-aos="fade-down"
           ></lord-icon>
